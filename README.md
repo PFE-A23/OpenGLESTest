@@ -1,1 +1,2 @@
-# Test project for a OpenGL ES triangle 
+# OpenGLES 
+Test project for an OpenGL ES triangle 
